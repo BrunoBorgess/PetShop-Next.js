@@ -65,9 +65,9 @@ export  function About(){
                             <a 
                                 href="#"
                                 className="bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2
-                                rounded-md"
+                                rounded-md hover:bg-green-600 duration-500"
                                 >
-                                    <WhatsappLogo className="w-5 h-5 text-white"/>
+                                    <WhatsappLogo className="w-5 h-5 text-white "/>
                                     Contato via Whatsapp
                                 </a>
 
@@ -77,7 +77,7 @@ export  function About(){
                                 rounded-md"
                                 >
                                     <MapPin className="w-5 h-5 text-black"/>
-                                    Contato via Whatsapp
+                                    Endereço da loja
 
                             </a>
                         </div>
