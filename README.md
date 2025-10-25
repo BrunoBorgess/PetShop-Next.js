@@ -1,5 +1,7 @@
 https://pet-shop-next-js.vercel.app/
 
+protótipo para outras empresas
+
 PetShop Web - Next.js & TailwindCSS
 Este projeto é um sistema web para um petshop desenvolvido utilizando Next.js e TailwindCSS, seguindo boas práticas de desenvolvimento para garantir performance, responsividade e organização de código.
 
